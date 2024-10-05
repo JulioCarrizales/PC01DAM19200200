@@ -1,13 +1,49 @@
 <resources>
+    <!-- App name -->
     <string name="app_name">PC01DAM19200200</string>
+
+    <!-- Navigation drawer strings -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Navigation header -->
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
+
+    <!-- Settings -->
     <string name="action_settings">Settings</string>
 
+    <!-- Menu options -->
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+    <!-- Placeholder text for fragments -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Login screen strings -->
+    <string name="login_logo">Login Logo</string> <!-- Content description for the logo -->
+    <string name="login_email_hint">Enter your email</string> <!-- Hint for the email input -->
+    <string name="login_password_hint">Enter your password</string> <!-- Hint for the password input -->
+    <string name="login_button_text">Login</string> <!-- Text for the login button -->
+
+    <!-- Snackbar action -->
+    <string name="snackbar_action">Action</string> <!-- Text for the action in the Snackbar -->
+
+    <!-- Equipos, Futbolistas, Rendimiento fragments -->
+    <string name="equipos_title">Equipos</string> <!-- Title for the Equipos fragment -->
+    <string name="futbolistas_title">Futbolistas</string> <!-- Title for the Futbolistas fragment -->
+    <string name="rendimiento_title">Rendimiento</string> <!-- Title for the Rendimiento fragment -->
+
+    <!-- Jugadores List Strings -->
+    <string name="player_image">Imagen del Jugador</string> <!-- Content description for player images -->
+    <string name="jugadores_list_title">Lista de Jugadores</string> <!-- Title for the player list fragment -->
+    <string name="jugador_nombre">Nombre del Jugador</string> <!-- Placeholder for player's name -->
+    <string name="jugador_anio_nacimiento">Año de nacimiento: </string> <!-- Text for player's birth year -->
+    <string name="jugador_edad">Edad: </string> <!-- Text for player's age -->
+
+    <!-- General Strings -->
+    <string name="error_loading_data">Error al cargar los datos</string> <!-- General error message -->
+    <string name="loading">Cargando...</string> <!-- Loading text -->
 </resources>
